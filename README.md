@@ -25,8 +25,11 @@ Start by cloning the repository to your local machine:
 ```bash
 git clone git@github.com:(YOUR_GITHUB_USER_NAME)/Kasra-Exercises-.git
 
+### Step 2: Navigate to the Folder
 
+Navigate to the html-basics folder:
 Navigate to the folder
+
 cd html-basics
 
 Create your HTML file
@@ -34,6 +37,7 @@ Inside the html-basics folder, create a new file named index.html.
 look at the exmaples for lessons
 
 -----------------------------------------------------------------------------------------
+### Open In Broswer
 To open your HTML file in a browser, follow these steps:
 
 Go to the Extensions view by clicking on the square icon in the sidebar or 
