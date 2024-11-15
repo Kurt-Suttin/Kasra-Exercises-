@@ -1,21 +1,30 @@
-# Kasra-Exercises-
+# Kasra-Exercises
 
-HTML Basics: Introduction to HTML
-Welcome to the HTML Basics repository! This repo is designed to help you learn the fundamentals of HTML and start building your first web page. In this lesson, you’ll learn how to create a basic HTML page structure and add essential elements like headings, paragraphs, and links.
+### HTML Basics: Introduction to HTML
 
-Lesson 1: Building a Simple HTML Page
-Objectives
+Welcome to the **HTML Basics** repository! This repo is designed to help you learn the fundamentals of HTML and start building your first web page. In this lesson, you’ll learn how to create a basic HTML page structure and add essential elements like headings, paragraphs, and links.
+
+---
+
+### Lesson 1: Building a Simple HTML Page
+
+#### Objectives
 By the end of this lesson, you will:
 
-Understand the basic structure of an HTML document.
-Be able to use key HTML tags such as <!DOCTYPE>, <html>, <head>, <title>, <body>, <h1>, <p>, and <a>.
-Create a simple webpage with a title, heading, paragraph, and link.
+- Understand the basic structure of an HTML document.
+- Be able to use key HTML tags such as `<!DOCTYPE>`, `<html>`, `<head>`, `<title>`, `<body>`, `<h1>`, `<p>`, and `<a>`.
+- Create a simple webpage with a title, heading, paragraph, and link.
 
-Getting Started
-Clone this repository
+---
+
+### Getting Started
+
+#### Step 1: Clone this Repository
 Start by cloning the repository to your local machine:
 
-git@github.com:(YOUR GITHUB USER NAME)/Kasra-Exercises-.git
+```bash
+git clone git@github.com:(YOUR_GITHUB_USER_NAME)/Kasra-Exercises-.git
+
 
 Navigate to the folder
 cd html-basics
